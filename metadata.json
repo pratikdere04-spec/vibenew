@@ -1,0 +1,6 @@
+{
+  "name": "Twogether - High-Intent Matrimony & Matchmaking",
+  "description": "A serious matrimony and high-intent matchmaking application designed for meaningful long-term relationships and marriage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

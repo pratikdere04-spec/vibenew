@@ -1,0 +1,8 @@
+{
+  "appId": "com.vibecheck.app",
+  "appName": "Vibe Check",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
